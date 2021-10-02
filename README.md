@@ -10,3 +10,5 @@ by installing the newer root certificate ISRG Root X1.
 Refer to https://letsencrypt.org/docs/dst-root-ca-x3-expiration-september-2021/
 
 下载链接: https://caiyun.139.com/m/i?005Ci0h15HQP6  提取码:EqtP
+
+注：必须以管理员权限运行！
